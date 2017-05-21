@@ -11,3 +11,10 @@ IBM's two quantum computing platforms just took a leap forward in processing pow
 The specialized hardware has only really been the domain of major businesses, research facilities and government research in the past, but today's announcement means the technology is also rapidly becoming more accessible. The previous 5 quibit Quantum Experience machine has run more than 300,000 experiments since it opened to the public last summer. Today's third-generation, 16 qubit processor will allow for even more complex computations. And with only so many people working in the field, the machine will likely have time to spare. On the other hand, **developers, researchers and programmers who want to carve out some of that time for their own experiments can already request beta access** through the Software Development Kit on GitHub. Or, you can just play around with the experiment composer here.
 
 Source: [Engadget.com](https://www.engadget.com/2017/05/17/ibm-quantum-q-experience-qubits-most-powerful-processor-yet/)
+
+
+###Comments:
+
+TXS81: It's amazing! Future is here! 
+
+Anonymous: I'm not so sure that it will be able to make human being better.
